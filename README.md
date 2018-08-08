@@ -1,4 +1,4 @@
-# SLAM Materials (https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# SLAM Materials
 
 Simultaneous Localization and Mapping, also known as SLAM, is the computational problem of constructing or updating a map of an unknown environment while simultaneously keeping track of an agent's location within it.
 
@@ -16,8 +16,6 @@ Simultaneous Localization and Mapping, also known as SLAM, is the computational 
 * **[Books](#books)**  
 
 * **[Courses, Lectures and Workshops](#courses-lectures-and-workshops)**  
-
-* **[Researchers](#researchers)**  
 
 * **[Miscellaneous](#miscellaneous)**  
 
@@ -87,42 +85,8 @@ Simultaneous Localization and Mapping, also known as SLAM, is the computational 
 - [SLAM Summer School](http://www.robots.ox.ac.uk/~SSS06/Website/index.html) organized by University of Oxford and Imperial College London (2006)
 - [SLAM Summer School](http://www.cas.kth.se/SLAM/) organized by KTH Royal Institute of Technology (2002)
 
-### Researchers
-
-#### United States
-- [John Leonard](https://www.csail.mit.edu/user/817)
-- [Sebastian Thrun](http://robots.stanford.edu/)
-- [Frank Dellaert](http://borg.cc.gatech.edu/)
-- [Dieter Fox](homes.cs.washington.edu/~fox/)
-- [Stergios I. Roumeliotis](http://www-users.cs.umn.edu/~stergios/)
-- [Vijay Kumar](http://www.kumarrobotics.org/)
-- [Ryan Eustice](http://robots.engin.umich.edu/~ryan/)
-- [Michael Kaess](http://frc.ri.cmu.edu/~kaess/)
-- [Guoquan (Paul) Huang](http://udel.edu/~ghuang/)
-- [Gabe Sibley](https://arpg.colorado.edu/people/)
-- [Luca Carlone](http://www.lucacarlone.com/)
-- [Andrea Censi](censi.mit.edu/)
-
-
-#### Europe
-- [Paul Newman](http://mrg.robots.ox.ac.uk/)
-- [Roland Siegwart](http://www.asl.ethz.ch/the-lab/people/person-detail.html?persid=29981)
-- [Juan Nieto](http://www.nietojuan.com/)
-- [Wolfram Burgard](http://www2.informatik.uni-freiburg.de/~burgard/)
-- [Jose Neira](webdiis.unizar.es/~neira/)
-- [Davide Scaramuzza](http://rpg.ifi.uzh.ch/people_scaramuzza.html)
-
-#### Australia
-- [Cesar Cadena](http://cs.adelaide.edu.au/~cesar/)
-- [Ian Reid](https://cs.adelaide.edu.au/~ianr/)
-- [Tim Bailey](http://www-personal.acfr.usyd.edu.au/tbailey/)
-- [Gamini Dissanayake](http://www.uts.edu.au/staff/gamini.dissanayake)
-- [Shoudong Huang](http://services.eng.uts.edu.au/~sdhuang/)
-
-
 
 ### Miscellaneous
-
 
 -----
 ### Contributing
